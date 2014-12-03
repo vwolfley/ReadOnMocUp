@@ -5,7 +5,7 @@ textarea {
     color: #E8E8E8;
 }
 #tabstrip {
-    width: 450px;
+    width: 650px;
     margin: 30px auto;
 }
 .weather {
@@ -28,4 +28,22 @@ textarea {
 #tabstrip p {
     margin: 0;
     padding: 0;
+}
+.gradeA {
+    display: inline-block;
+    margin: 5px 0 5px 335px;
+    width: 64px;
+    height: 78px;
+    background: url("../img/GradeA.PNG") transparent no-repeat 0 0;
+    vertical-align: middle;
+}
+#title {
+    margin-right: 65px;
+}
+#titleBox {
+    display: table;
+}
+.title {
+    vertical-align: middle;
+    display: table-cell;
 }
