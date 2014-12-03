@@ -1,12 +1,12 @@
-textarea {
+/*textarea {
     font-size: 100%;
     font-family: Tahoma, Geneva, sans-serif;
     overflow: hidden;
     color: #E8E8E8;
-}
+}*/
 #tabstrip {
     width: 650px;
-    margin: 30px auto;
+    margin: 10px auto;
 }
 .weather {
     width: 160px;
@@ -29,21 +29,13 @@ textarea {
     margin: 0;
     padding: 0;
 }
-.gradeA {
-    display: inline-block;
-    margin: 5px 0 5px 335px;
-    width: 64px;
-    height: 78px;
-    background: url("../img/GradeA.PNG") transparent no-repeat 0 0;
-    vertical-align: middle;
-}
-#title {
-    margin-right: 65px;
-}
 #titleBox {
-    display: table;
+    display: inline-block;
+    vertical-align: middle;
 }
 .title {
+    display: inline-block;
     vertical-align: middle;
-    display: table-cell;
 }
+.titlePic {
+    padding-left: 265px
