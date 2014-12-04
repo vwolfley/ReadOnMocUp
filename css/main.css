@@ -1,11 +1,5 @@
-/*textarea {
-    font-size: 100%;
-    font-family: Tahoma, Geneva, sans-serif;
-    overflow: hidden;
-    color: #E8E8E8;
-}*/
 #tabstrip {
-    width: 650px;
+    width: 645px;
     margin: 10px auto;
 }
 .weather {
@@ -30,12 +24,17 @@
     padding: 0;
 }
 #titleBox {
-    display: inline-block;
-    vertical-align: middle;
+    height: 78px;
 }
-.title {
-    display: inline-block;
-    vertical-align: middle;
+#title {
+    float: left;
 }
-.titlePic {
-    padding-left: 265px
+#imgGrade {
+    float: right;
+}
+.kendoGridCenter {
+    text-align: center;
+}
+.k-tabstrip .k-tabstrip-items {
+    font-size: small;
+}
