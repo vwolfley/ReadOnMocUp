@@ -20,10 +20,11 @@ ReadOn MocUp
 * *letter grade is under appeal
 * P-letter grade is still undergoing calculation
 * 9999 - means data missing or Not Applicable
-* Q - means question ?
+* Q - means question /?
 * NR - means Not Rated
 
  * 95% Tested Cap
+ 
  | Percentage of Students Tested | Maximum Letter Grade Allowed | Eligible Points |
  | ----------------------------- | :--------------------------: | :-------------: |
  | 95% or higher                 | A                            | 200 +           |
