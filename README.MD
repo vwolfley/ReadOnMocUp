@@ -25,7 +25,7 @@ ReadOn MocUp
 
  * 95% Tested Cap
  | Percentage of Students Tested | Maximum Letter Grade Allowed | Eligible Points |
- | ----------------------------- | ---------------------------- | --------------- |
+ | ----------------------------- | :--------------------------: | :-------------: |
  | 95% or higher                 | A                            | 200 +           |
  | 85% - 94%                     | B                            | 139             |
  | 75% - 84%                     | C                            | 119             |
