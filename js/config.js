@@ -56,39 +56,53 @@ var appConfig = new function() {
 
     this.litchfieldCensusData = [{
         type: "Tract",
-        value: "061010"
+        value: 061010,
+        percent: "-"
     }, {
         type: "Total Population",
-        value: "4638"
+        value: 4638,
+        percent: "-"
     }, {
         type: "Median Age",
-        value: "46"
+        value: 46,
+        percent: "-"
     }, {
         type: "Age Under 5",
-        value: "201"
+        value: 201,
+        percent: .051
     }, {
         type: "White Under 5",
-        value: "142"
+        value: 142,
+        percent: .002
     }, {
         type: "Black Under 5",
-        value: "7"
+        value: 7,
+        percent: .001
     }, {
         type: "Native American Under 5",
-        value: "2"
+        value: 2,
+        percent: .0001
     }, {
         type: "Asian Under 5",
-        value: "15"
+        value: 15,
+        percent: .0015
     }, {
         type: "Pacific Islander Under 5",
-        value: "0"
+        value: 0,
+        percent: 0
     }, {
         type: "Two or More Under 5",
-        value: "13"
+        value: 13,
+        percent: .0012
     }, {
         type: "Other Race Under 5",
-        value: "22"
+        value: 22,
+        percent: .0013,
+        format: "{0:p}"
     }, {
         type: "Median Income",
-        value: "97602"
+        value: 97602,
+        percent: "-",
+        format: "{0:c}"
     }]
 };

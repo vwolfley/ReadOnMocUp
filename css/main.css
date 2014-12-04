@@ -38,3 +38,8 @@
 .k-tabstrip .k-tabstrip-items {
     font-size: small;
 }
+.k-grid-header .k-header {
+white-space: normal!important;
+text-align: center!important;
+padding: 0!important;
+}

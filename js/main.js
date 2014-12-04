@@ -219,19 +219,30 @@ $(document).ready(function() {
         scrollable: true,
         resizable: false,
         columnMenu: false,
-        columns: [{
+        columns: [
+        {
             field: "type",
-            title: "Census Field",
-            width: 100,
+            title: "Census Info",
+            width: 75,
         }, {
             field: "value",
-            title: "Census Value",
-            width: 100,
+            title: "Total",
             format: "{0:n0}",
+            width: 35,
+            // format: "{0:n0}",
             attributes: {
                 "class": "kendoGridCenter"
             }
-        }]
+        }, {
+            field: "percent",
+            title: "Percent",
+            width: 35,
+            format: "{0:p0}",
+            attributes: {
+                "class": "kendoGridCenter"
+            }
+        }
+        ]
     });
 });
 
@@ -363,9 +374,9 @@ function districtTestsChart() {
         }, {
             name: "Math",
             data: [0, 369, 382, 382, 382, 385]
-        // }, {
-        //     name: "Writing",
-        //     data: [0, 0, 0, 0, 0, 0]
+            // }, {
+            //     name: "Writing",
+            //     data: [0, 0, 0, 0, 0, 0]
         }],
         valueAxis: {
             labels: {

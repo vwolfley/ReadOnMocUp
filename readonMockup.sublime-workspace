@@ -1,0 +1,1079 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Employ",
+				"Employers"
+			],
+			[
+				"k",
+				"k-header"
+			],
+			[
+				"Employe",
+				"Employees"
+			],
+			[
+				"mapTitle",
+				"mapTitle1"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"jobCent",
+				"jobCenters"
+			],
+			[
+				"jobCente",
+				"jobCenterLayer"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"liveWo",
+				"liveWorkSumArray"
+			],
+			[
+				"liveIn",
+				"liveInSumArray"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"curAgg",
+				"curAggItem1"
+			],
+			[
+				"sumWo",
+				"sumWorkAge"
+			],
+			[
+				"sumWork",
+				"sumWorkAge"
+			],
+			[
+				"empTabSr",
+				"empTabStrip-3"
+			],
+			[
+				"maxNum",
+				"maxNumArray"
+			],
+			[
+				"sumLive",
+				"sumLiveIn"
+			],
+			[
+				"sumWor",
+				"sumWorkOcc"
+			],
+			[
+				"template",
+				"infoTemplate"
+			],
+			[
+				"graphics",
+				"graphicsJC"
+			],
+			[
+				"jobs",
+				"jobsObj"
+			],
+			[
+				"features",
+				"features"
+			],
+			[
+				"jobCen",
+				"jobCenterSummary"
+			],
+			[
+				"where",
+				"whereClause1"
+			],
+			[
+				"communit",
+				"communityName"
+			],
+			[
+				"summary",
+				"summaryField"
+			],
+			[
+				"Job",
+				"Job_Center"
+			],
+			[
+				"subSum",
+				"subSumRes"
+			],
+			[
+				"employment",
+				"employmentConfig"
+			],
+			[
+				"kendo",
+				"kendoGrid"
+			],
+			[
+				"empTabStrip",
+				"empTabStrip-5"
+			],
+			[
+				"layerOp",
+				"layerOptions"
+			],
+			[
+				"mapServi",
+				"mapServices"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"identifyParams",
+				"identifyParamsTask1  (variable)"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"mapOnly",
+				"mapOnlyRemove  (variable)"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"wiEmpl",
+				"wiEmployers"
+			],
+			[
+				"Feature",
+				"FeatureLayer"
+			],
+			[
+				"wiEmployer",
+				"wiEmployerURL"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"con",
+				"console.log(message);"
+			],
+			[
+				"execute",
+				"executeIdentifyTask"
+			],
+			[
+				"distance",
+				"distanceToggleButton"
+			],
+			[
+				"basemap",
+				"BasemapToggle"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"nav",
+				"navbar-brand"
+			],
+			[
+				"grunt-contrib-css",
+				"grunt-contrib-cssmin"
+			],
+			[
+				"be",
+				"before"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"att",
+				"attributes  (namespace)"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"opacity",
+				"setOpacity"
+			],
+			[
+				"visible",
+				"visibleLayers"
+			],
+			[
+				"iden",
+				"identifyTask  (variable)"
+			],
+			[
+				"me",
+				"small  (value)"
+			],
+			[
+				"Mulipoint",
+				"Multipoint"
+			],
+			[
+				"slideD",
+				"slideDuration  (variable)"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"newWindo",
+				"newWindowHeight"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"if",
+				"iframe"
+			],
+			[
+				"fldObj",
+				"fldObj2"
+			],
+			[
+				"map",
+				"mapNotes"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"k-i",
+				"k-item"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"console",
+				"console.	console.log()"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"clos",
+				"closeWindow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"feature",
+				"featureCount"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"selected",
+				"selectedFeatures"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"get",
+				"getElementsByName  (function)"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"document",
+				"documentElement"
+			],
+			[
+				"legendWindow",
+				"legendWindowDiv"
+			],
+			[
+				"doc",
+				"documentElement  (variable)"
+			],
+			[
+				"ti",
+				"title2"
+			],
+			[
+				"layersT",
+				"layersTOC"
+			],
+			[
+				"layers",
+				"layersTOC"
+			],
+			[
+				"margin-to",
+				"margin-top:   (property)"
+			],
+			[
+				"margin-l",
+				"margin-left:   (property)"
+			],
+			[
+				"k-",
+				"k-item"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"border-",
+				"border-color:   (property)"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"newLayer",
+				"newLayerURL"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"dojo",
+				"dojoColor"
+			],
+			[
+				"currColR",
+				"currColRampName"
+			],
+			[
+				"colRamp",
+				"colRampName"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"currColRa",
+				"currColRampName  (variable)"
+			],
+			[
+				"padding-",
+				"padding-top:   (property)"
+			],
+			[
+				"help",
+				"helplaunchbar"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"s",
+				"strong	Tag"
+			],
+			[
+				"font-f",
+				"font-family:   (property)"
+			],
+			[
+				"ser",
+				"appConfig.seriesColors"
+			],
+			[
+				"series",
+				"seriesColors"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fff",
+				"ffffff"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Snippet: list"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: t",
+				"Package Control: Install Package"
+			],
+			[
+				"jsf",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Set Syntax: CSS"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 468.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/CHANGELOG.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/config/employmentConfig.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/employment-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/interactiveTools-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/run.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/interactiveTools-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/README.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/package.json",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/humans.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/interactiveTools-vm1.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/_templates/html5-boilerplate-master/CHANGELOG.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/_templates/html5-boilerplate-master/README.md",
+		"/C/Users/vwolfley/AppData/Local/Temp/Temp1_kendo-bootstrapper-0.5.zip/kendo-bootstrapper-0.5/README.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/models/map-model.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/resources/css/main.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/selectedFeaturesTab-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentLargestEmployersTab-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentJobCentersTab-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/helpers/layer-delegate.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/selectedFeaturesTabPage-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/print-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/legend-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentSelectedFeaturesTab-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employment-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/reports-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/classificationFactory-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/config/cbrConfig.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/cbr-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/mainHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/legend-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/help-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/help-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/reports-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentWorkAgeTab-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentWorksLivesMapsTab-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentWorkOccTab-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentTRPMapTab-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentSectorSummaryTab-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/print-view.html",
+		"/I/Projects/Git_repo/README.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/reportsHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/legendHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/main.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/queryBuilderTwo-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/colorRamp-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/vendor/knockout-3.2.0.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/reportsLaunchbar-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/404.html",
+		"//MAG1113/ArcGISVirtualRoot/maps/empTest/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/legal-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/_templates/telerik.kendoui.professional.2014.2.716/examples/chart-api/index.html",
+		"//MAG1113/ArcGISVirtualRoot/maps/empTest/app/views/employment-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentCharts-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentNew-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/popup-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/email-vm.js",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/employmentSubSectorSummaryTab-view.html",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/Javascript Beautify/Default (Windows).sublime-keymap",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/.git/COMMIT_EDITMSG",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/JavascriptBeautify.sublime-settings",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/helpers/printMap-delegate.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/panel-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/panel-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/demographic-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/panelHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/demographicSelFeaturesHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/cbrHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/demographic-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/config/colorRampConfig.js",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/report-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/legal-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/demographicSummaryHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/demographicChartHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/colorRamp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/colorRampHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/cbr-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/classBreaksHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/classBreaks-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/report-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/reportLaunchBar-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/views/reportHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/legendLaunchbar-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/cbrlaunchbar-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/queryBuilder-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/helpers/magNumberFormatter.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/launchbar-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/deploy/build_2.0.0/app/config/cbrConfig.js",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/config/demographicConfig.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/app/vm/window-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/Gruntfile.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Employment/employment_project/node_modules/jshint-stylish-ex/stylish.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Tools/geoCodeTest/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/CHANGELOG.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/js/main.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/css/main.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/js/config.js",
+		"/C/Users/vwolfley/Desktop/test.html",
+		"/C/Users/vwolfley/Desktop/test2.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/README.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/package.json",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/humans.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/node_modules/jshint-stylish-ex/stylish.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/helpPrint.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/printTool.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/measureTool.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/about.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/proxy/proxy.config",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/Gruntfile.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Bikemap/bikemap_project/node_modules/jshint-stylish-ex/stylish.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/legalDisclaimer.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/helpContent.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/contents.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/definitions.html",
+		"/Z/d3.js_example/README.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/measure.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/about",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/css/bootstrapmap.css"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"kendoGridCenter",
+			"cluster summary",
+			"age",
+			"windowClosed",
+			"dem",
+			"demExportSummary",
+			"empExportSummary",
+			"ExportSummary",
+			"k-state-hover",
+			"hover",
+			"gridRowHover",
+			"fCount",
+			"queryCountGlobal",
+			"demFeat",
+			"numFeatures",
+			"gridRowHover",
+			"hover",
+			"top",
+			"me",
+			"county",
+			"subBusTotal",
+			"legend",
+			"#mapTitle",
+			"Title: \"\",",
+			"toc",
+			"cbrVm",
+			"toc",
+			"print",
+			"legend",
+			".byId",
+			"fCount",
+			"dc.create",
+			"employmentVM",
+			"legend",
+			"mapLoaded",
+			"v2013",
+			"SQ_MI",
+			"SQMI",
+			"fCountSpan",
+			"dojo.connect",
+			"launchInteractiveSummaryWin",
+			"self.workOccEmpty",
+			"liveInSumArray",
+			"numx",
+			"numMax",
+			"mapBox",
+			"source",
+			"remove",
+			"print",
+			"mapBox",
+			"function",
+			"remove",
+			"console.log",
+			"workOccNumArray",
+			"empSource",
+			"Num_Businesses_2013",
+			"activate",
+			"InfoTemplate",
+			"dj",
+			"dojo",
+			"on",
+			"dojo.",
+			"dojo",
+			"on",
+			"da",
+			"da.",
+			"da",
+			"dj",
+			"IdentifyTask",
+			"county",
+			"max",
+			"self.hasSelectedFeatures",
+			"#empWorkerAgeTab",
+			"#empWorkerTab",
+			"empWorkerTab",
+			"mapLayerAdded",
+			"add",
+			"tp",
+			"jobsID",
+			"jobsId",
+			"dom",
+			"secSumView",
+			"sector",
+			"&&",
+			"setSymbol",
+			"symbol",
+			"graphic",
+			"color",
+			".sort(compare);",
+			"self.graphicsJC",
+			"self.graphicsJS",
+			"wName",
+			"tp.",
+			"self.typeName",
+			"tp.",
+			"tp.\n",
+			"(\"type\", self.typeName)\n",
+			"\"type\", self.typeName\n",
+			"                    \n",
+			"JC",
+			"placeName",
+			"hasSelectedFeatures",
+			"graphics",
+			"gridRowHover",
+			"apply",
+			"jobsObj",
+			"publish",
+			"jobsID",
+			"topsObj",
+			"dom",
+			"export",
+			"TRPmap",
+			"item",
+			"sector",
+			"businesses",
+			"on(",
+			"on",
+			"jobsName",
+			"for",
+			"self.hasSelectedFeatures",
+			"Tracts",
+			"tracts",
+			"sumName",
+			"Maricopa",
+			"Maicopa",
+			"getFieldNames",
+			"summaryItems",
+			"Sector"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"cbrVM",
+			"DEN",
+			"SQMI",
+			"SQ_MI",
+			"typeName",
+			"subSector",
+			"subBusField",
+			"subEmpField",
+			"sumEmpField",
+			"sumBusField",
+			"jobs",
+			"NormalizeField: \"SQMI\",",
+			"v2013",
+			"Source: \"2013 MAG Employer Database with employers with 5 or more employees\",",
+			"Service: \"EmploymentSummary2013\",",
+			"DefaultColorRamp: \"Blues\",",
+			"Source: \"2012 MAG Employer Database with employers with 5 or more employees\",",
+			"LayerId: 0,",
+			"reports",
+			"\"",
+			"employment",
+			"LayerId: 2,",
+			"LayerId: 0,",
+			"LayerId: 2,",
+			"LayerId: 0,",
+			"LayerId: 2,",
+			"LayerId: 0,",
+			"0",
+			"EmploymentSummary2012",
+			"Greens",
+			"BuGn",
+			"false",
+			"2",
+			"EmploymentSummary",
+			"\"",
+			"measureOpen",
+			"mTool",
+			"\"",
+			"",
+			"legendLayers",
+			"tocLayers",
+			"http",
+			"https",
+			"panel",
+			"American Community Survey 2008 - 2012",
+			"Selected Block Groups",
+			"#",
+			"geo.azmag.gov",
+			"v2012",
+			"li",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bli",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"<tr bgcolor=\"\">",
+			"<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">",
+			"<tr style=\"text-align:center;font-weight:bold;background:#a8a8a8;\">",
+			"<tr style=\"\">",
+			"<tr style=\"text-align:center;font-weight:bold; background:#a8a8a8;\">",
+			"<tr style=\"text-align:center;font-weight:bold; background:#a8a8a8\">",
+			"<tr style=\"text-align:center;font-weight:bold; background:a8a8a8\">",
+			"<name>",
+			"#a8a8a8",
+			"<tr style=\"text-align:center;font-weight:bold\">",
+			"<tr>",
+			"<name style=\"text-align:center;background:#A8A8A8\">",
+			"</li>",
+			"<li>",
+			"li",
+			"65"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 63.0
+	},
+	"output.git":
+	{
+		"height": 359.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 239.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 148.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"humans.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_working/WickenburgViewer.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true
+}
