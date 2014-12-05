@@ -18,14 +18,14 @@ ReadOn MocUp
 * State Data from FY 2011 - 2014
 
 * `*`- letter grade is under appeal
-* `P`-letter grade is still undergoing calculation
+* `P`- letter grade is still undergoing calculation
 * `9999` - means data missing or Not Applicable
 * `Q` - means there is a question in the data
 * `NR` - means Not Rated
 
  |95% Tested Cap|
  |--------------|
- 
+
  | Percentage of Students Tested | Maximum Letter Grade Allowed | Eligible Points |
  | ----------------------------- | :--------------------------: | :-------------: |
  | 95% or higher                 | A                            | 200 +           |
